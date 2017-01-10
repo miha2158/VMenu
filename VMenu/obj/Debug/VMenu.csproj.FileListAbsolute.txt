@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\VMenu\VMenu\bin\Debug\VMenu.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\VMenu\VMenu\bin\Debug\VMenu.exe
+C:\Users\user\documents\visual studio 2015\Projects\VMenu\VMenu\bin\Debug\VMenu.pdb
+C:\Users\user\documents\visual studio 2015\Projects\VMenu\VMenu\obj\Debug\VMenu.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\VMenu\VMenu\obj\Debug\VMenu.exe
+C:\Users\user\documents\visual studio 2015\Projects\VMenu\VMenu\obj\Debug\VMenu.pdb
